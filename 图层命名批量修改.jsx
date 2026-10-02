@@ -2,6 +2,19 @@
 app.bringToFront();
 
 /**
+ * 图层名称批量操作工具 (Layer Batch Operations Tool)
+ * 
+ * @author   xcao91770-cyber
+ * @link     https://github.com/xcao91770-cyber/Photoshop-Layer-Renamer
+ * @license  CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International)
+ * 
+ * 【版权与免责声明】
+ * 本脚本完全免费开源，仅供个人学习、美术拆件交流与实际工作中使用。
+ * 严禁任何个人或商业机构二次打包、倒卖、转售或设置付费下载。
+ */
+
+
+/**
  * 图层名称批量操作工具 v6.3
  * 1. 规范检查器（就地删除废层、就地重命名改错、一键全选异常、常驻列表连续巡查）
  * 2. 独立图层检索定位器（支持快速双击定位展开、单击后按按钮定位、多选带入PS）
